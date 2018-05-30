@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SQLiteAndmebaas.iml" filepath="$PROJECT_DIR$/SQLiteAndmebaas.iml" />
+      <module fileurl="file://C:\Users\opilane\StudioProjects\SQLiteAndmebaasGruppToo\SQLiteAndmebaas.iml" filepath="C:\Users\opilane\StudioProjects\SQLiteAndmebaasGruppToo\SQLiteAndmebaas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQLiteAndmebaasGruppToo.iml" filepath="$PROJECT_DIR$/SQLiteAndmebaasGruppToo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\opilane\StudioProjects\SQLiteAndmebaasGruppToo\app\app.iml" filepath="C:\Users\opilane\StudioProjects\SQLiteAndmebaasGruppToo\app\app.iml" />
     </modules>
   </component>
 </project>

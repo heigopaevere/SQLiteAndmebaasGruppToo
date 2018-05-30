@@ -8,4 +8,10 @@
     <string name="lisa">lisa</string>
     <string name="kustuta_string">kustuta</string>
     <string name="uuenda_string">Uuenda</string>
+    <string name="email">Email</string>
+    <string name="password">Salasõna</string>
+    <string name="login">Logi sisse</string>
+    <string name="katsed">Katseid on jäänud veel</string>
+    <string name="unustatud">unustasid salasõna</string>
+    <string name="registreeri">Registreeri kasutajaks</string>
 </resources>
